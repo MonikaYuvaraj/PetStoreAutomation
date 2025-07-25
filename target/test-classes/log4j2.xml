@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+	<!-- Define properties for reuse -->
+	<Properties>
+		<Property name="basePath">./logs</Property>
+	</Properties>
+
+	<!-- Define where logs will be written -->
+	<Appenders>
+
+		<!-- Console logging -->
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+
+		<!-- Rolling file logging -->
+		<RollingFile name="File"
+			fileName="${basePath}/automation.log"
+			filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+			<SizeBasedTriggeringPolicy size="50MB" />
+		</RollingFile>
+
+	</Appenders>
+
+	<!-- Define which appenders to use at what level -->
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="File" />
+			<!-- You can enable this to also log to console -->
+			<!-- <AppenderRef ref="Console"/> -->
+		</Root>
+	</Loggers>
+
+</Configuration>

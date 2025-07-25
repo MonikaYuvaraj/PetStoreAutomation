@@ -1,0 +1,92 @@
+12:06:37.403 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse\New Eclipse\PetStroreAutomationAPI\testng.xml
+
+12:06:37.921 [main] INFO  api.test.UserTest - Setting up data for User API tests
+12:06:37.954 [main] INFO  api.test.UserTest - **********Creating a new user****************
+12:06:41.798 [main] INFO  api.test.UserTest - ****************User created***************
+12:06:41.821 [main] INFO  api.test.UserTest - **********Reading user details****************
+12:06:42.250 [main] INFO  api.test.UserTest - ****************User details read***************
+12:06:42.255 [main] INFO  api.test.UserTest - **********Updating user details****************
+12:06:43.034 [main] INFO  api.test.UserTest - ****************User details updated***************
+12:06:43.051 [main] INFO  api.test.UserTest - **********Deleting user****************
+12:06:43.830 [main] INFO  api.test.UserTest - ****************User deleted***************
+12:28:44.682 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse\New Eclipse\PetStroreAutomationAPI\testng.xml
+
+12:28:45.161 [main] INFO  api.test.UserTest - Setting up data for User API tests
+12:28:45.187 [main] INFO  api.test.UserTest - **********Creating a new user****************
+12:28:49.231 [main] INFO  api.test.UserTest - ****************User created***************
+12:28:49.246 [main] INFO  api.test.UserTest - **********Reading user details****************
+12:28:49.548 [main] INFO  api.test.UserTest - ****************User details read***************
+12:28:49.559 [main] INFO  api.test.UserTest - **********Updating user details****************
+12:28:50.371 [main] INFO  api.test.UserTest - ****************User details updated***************
+12:28:50.378 [main] INFO  api.test.UserTest - **********Deleting user****************
+12:28:51.078 [main] INFO  api.test.UserTest - ****************User deleted***************
+12:30:26.367 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse\New Eclipse\PetStroreAutomationAPI\testng.xml
+
+12:30:26.891 [main] INFO  api.test.UserTest - Setting up data for User API tests
+12:30:26.922 [main] INFO  api.test.UserTest - **********Creating a new user****************
+12:30:28.833 [main] INFO  api.test.UserTest - **********Reading user details****************
+12:30:29.640 [main] INFO  api.test.UserTest - ****************User details read***************
+12:30:29.647 [main] INFO  api.test.UserTest - **********Updating user details****************
+12:30:30.840 [main] INFO  api.test.UserTest - ****************User details updated***************
+12:30:30.845 [main] INFO  api.test.UserTest - **********Deleting user****************
+12:30:31.629 [main] INFO  api.test.UserTest - ****************User deleted***************
+12:38:41.887 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse\New Eclipse\PetStroreAutomationAPI\testng.xml
+
+12:38:42.402 [main] INFO  api.test.UserTest - Setting up data for User API tests
+12:38:42.429 [main] INFO  api.test.UserTest - **********Creating a new user****************
+12:38:46.239 [main] INFO  api.test.UserTest - ****************User created***************
+12:38:46.256 [main] INFO  api.test.UserTest - **********Reading user details****************
+12:38:46.489 [main] INFO  api.test.UserTest - ****************User details read***************
+12:38:46.494 [main] INFO  api.test.UserTest - **********Updating user details****************
+12:38:47.174 [main] INFO  api.test.UserTest - ****************User details updated***************
+12:38:47.178 [main] INFO  api.test.UserTest - **********Deleting user****************
+12:38:47.872 [main] INFO  api.test.UserTest - ****************User deleted***************
+13:08:55.332 [main] INFO  api.test.UserTest - Setting up data for User API tests
+13:08:55.354 [main] INFO  api.test.UserTest - **********Creating a new user****************
+13:08:58.998 [main] INFO  api.test.UserTest - ****************User created***************
+13:08:59.016 [main] INFO  api.test.UserTest - **********Reading user details****************
+13:08:59.348 [main] INFO  api.test.UserTest - ****************User details read***************
+13:08:59.351 [main] INFO  api.test.UserTest - **********Updating user details****************
+13:08:59.788 [main] INFO  api.test.UserTest - ****************User details updated***************
+13:08:59.790 [main] INFO  api.test.UserTest - **********Deleting user****************
+13:09:00.504 [main] INFO  api.test.UserTest - ****************User deleted***************
+13:09:37.248 [main] INFO  api.test.UserTest - Setting up data for User API tests
+13:09:37.285 [main] INFO  api.test.UserTest - **********Creating a new user****************
+13:09:41.330 [main] INFO  api.test.UserTest - ****************User created***************
+13:09:41.347 [main] INFO  api.test.UserTest - **********Reading user details****************
+13:09:41.877 [main] INFO  api.test.UserTest - ****************User details read***************
+13:09:41.881 [main] INFO  api.test.UserTest - **********Updating user details****************
+13:09:42.599 [main] INFO  api.test.UserTest - ****************User details updated***************
+13:09:42.602 [main] INFO  api.test.UserTest - **********Deleting user****************
+13:09:43.503 [main] INFO  api.test.UserTest - ****************User deleted***************
+13:37:56.499 [main] INFO  api.test.UserTest - Setting up data for User API tests
+13:37:56.525 [main] INFO  api.test.UserTest - **********Creating a new user****************
+13:38:00.660 [main] INFO  api.test.UserTest - ****************User created***************
+13:38:00.674 [main] INFO  api.test.UserTest - **********Reading user details****************
+13:38:01.162 [main] INFO  api.test.UserTest - ****************User details read***************
+13:38:01.165 [main] INFO  api.test.UserTest - **********Updating user details****************
+13:38:01.866 [main] INFO  api.test.UserTest - ****************User details updated***************
+13:38:01.870 [main] INFO  api.test.UserTest - **********Deleting user****************
+13:38:02.469 [main] INFO  api.test.UserTest - ****************User deleted***************
+13:38:27.121 [main] INFO  api.test.UserTest - Setting up data for User API tests
+13:38:27.144 [main] INFO  api.test.UserTest - **********Creating a new user****************
+13:38:32.245 [main] INFO  api.test.UserTest - ****************User created***************
+13:38:32.262 [main] INFO  api.test.UserTest - **********Reading user details****************
+13:38:32.693 [main] INFO  api.test.UserTest - ****************User details read***************
+13:38:32.702 [main] INFO  api.test.UserTest - **********Updating user details****************
+13:38:33.298 [main] INFO  api.test.UserTest - ****************User details updated***************
+13:38:33.300 [main] INFO  api.test.UserTest - **********Deleting user****************
+13:38:34.004 [main] INFO  api.test.UserTest - ****************User deleted***************
+13:44:31.735 [main] INFO  api.test.UserTest - Setting up data for User API tests
+13:44:31.761 [main] INFO  api.test.UserTest - **********Creating a new user****************
+13:44:36.223 [main] INFO  api.test.UserTest - ****************User created***************
+13:44:36.244 [main] INFO  api.test.UserTest - **********Reading user details****************
+13:44:36.556 [main] INFO  api.test.UserTest - ****************User details read***************
+13:44:36.559 [main] INFO  api.test.UserTest - **********Updating user details****************
+13:44:37.243 [main] INFO  api.test.UserTest - ****************User details updated***************
+13:44:37.245 [main] INFO  api.test.UserTest - **********Deleting user****************
+13:44:37.963 [main] INFO  api.test.UserTest - ****************User deleted***************
